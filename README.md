@@ -1,4 +1,4 @@
 # Tailwind-React
 React + Tailwind
 
-Simple landing page creating in React and Tailwind
+Simple landing page created in React and Tailwind
